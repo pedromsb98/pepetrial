@@ -1,0 +1,38 @@
+.page-index {
+  padding: 4em 0;
+}
+
+.page-index .logo-wrapper {
+  margin: 0.5em 0;
+  text-align: center;
+}
+
+.page-index .logo-wrapper img {
+  max-width: 90vw;
+  width: 256px;
+}
+
+.page-index h1 {
+  color: #9cea58;
+  font-family: Edgar;
+  font-size: 500%;
+  text-transform: uppercase;
+}
+
+.page-index h1,
+.page-index h2 {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.page-index__actions {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 2.5em;
+}
+
+.page-index__actions > div {
+  margin-top: 0.5em;
+}
